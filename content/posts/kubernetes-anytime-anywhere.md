@@ -1,14 +1,17 @@
 ---
 title: "随时随地访问您的Kubernetes集群"
-subtitle: "kubernetes客户端工具推荐"
-description: "kubernetes命令行、桌面、web、手机客户端推荐，随时随地访问您的kubernetes集群"
-date: 2017-12-06T16:23:15+08:00
-tags: ["kubernetes"]
-categories: "kubernetes"
-bigimg: [{src: "https://res.cloudinary.com/jimmysong/image/upload/images/20171202002.jpg", desc: "大橘猫@五道营胡同 Dec 2,2017"}]
-draft: false
----
+subtitle: kubernetes客户端工具推荐
+description: kubernetes命令行、桌面、web、手机客户端推荐，随时随地访问您的kubernetes集群
+date: 2017-12-06 16:23:15 +0800
+tags:
+- kubernetes
+categories: kubernetes
+bigimg:
+- src: https://res.cloudinary.com/jimmysong/image/upload/images/20171202002.jpg
+  desc: "大橘猫@五道营胡同 Dec 2,2017"
+draft: true
 
+---
 设想一下，有一天你正在海上冲浪，突然你的智能手表上的电话响起，你的老板要你上线一个服务，而你早已在测试环境部署验证过没有问题，现在到了上线时间了，此时你信心满满，在自己的手表上打开了kubernetes终端，手指点了点，啪，上线完成。
 
 ![Kubernetes手机端](https://res.cloudinary.com/jimmysong/image/upload/images/kubernetes-on-arms-1.jpg)
