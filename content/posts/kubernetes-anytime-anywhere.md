@@ -9,7 +9,6 @@ categories: kubernetes
 bigimg:
 - src: https://res.cloudinary.com/jimmysong/image/upload/images/20171202002.jpg
   desc: "大橘猫@五道营胡同 Dec 2,2017"
-draft: true
 
 ---
 设想一下，有一天你正在海上冲浪，突然你的智能手表上的电话响起，你的老板要你上线一个服务，而你早已在测试环境部署验证过没有问题，现在到了上线时间了，此时你信心满满，在自己的手表上打开了kubernetes终端，手指点了点，啪，上线完成。
